@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "That's Christmas to Me",
+  "base_artist": "Pentatonix",
+  "createdAt": "2025-12-05T09:43:49.837955Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "That's Christmas to Me",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/01_That's_Christmas_to_Me_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "That's Christmas to Me",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/02_That's_Christmas_to_Me_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "That's Christmas to Me",
+      "artist": "Coco Worth",
+      "has_synced": true,
+      "path": "select/03_That's_Christmas_to_Me_Coco_Worth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "That's Christmas to Me",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/04_That's_Christmas_to_Me_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "That’s Christmas to Me",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/05_That’s_Christmas_to_Me_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "That’s Christmas To Me",
+      "artist": "Robin Bengtsson",
+      "has_synced": true,
+      "path": "select/06_That’s_Christmas_To_Me_Robin_Bengtsson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "That's Christmas to Me",
+      "artist": "The Purple Hulls",
+      "has_synced": false,
+      "path": "select/07_That's_Christmas_to_Me_The_Purple_Hulls.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "That's Christmas to Me (Official Video)",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/08_That's_Christmas_to_Me_(Official_Video)_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "That's Christmas to Me",
+      "artist": "Bing Crosby",
+      "has_synced": false,
+      "path": "select/09_That's_Christmas_to_Me_Bing_Crosby.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That's Christmas to Me",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/10_That's_Christmas_to_Me_Pentatonix.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "That's Christmas to Me",
+      "artist": "Pentatonix",
+      "has_synced": false,
+      "path": "select/pl_01_That's_Christmas_to_Me_Pentatonix.txt"
+    }
+  ]
+}
